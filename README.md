@@ -8,3 +8,5 @@ you are provided a training dataset with 750 songs, each of which Andreas has la
 with LIKE or DISLIKE. The column "label" in training_data.csv is encoded as 1 = LIKE and 0 = DISLIKE.
 
 I explored tree-based methods for this problem.
+
+See music_classification_task_instructions.pdf for task instructions
